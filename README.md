@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-rafay-c4&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rafay-c4" /> </p>
 
-- 🔭 I’m currently working on **Neural Networks**
+- 🔭 I’m currently working on **E-Sports Pakistan**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Game development and AI**
 
