@@ -158,11 +158,12 @@ SYSTEM_CORE:
 
 # 🚀 ACTIVE MISSIONS
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-# 🛡 Game Dev
+# 🎮 Game Dev
 
 ```diff
 + STATUS: ACTIVE
@@ -225,6 +226,8 @@ SYSTEM_CORE:
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
