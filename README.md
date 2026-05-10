@@ -258,7 +258,17 @@ D --> K[Autonomous Decision Systems]
 # 📊 GITHUB TELEMETRY
 
 <div align="center">
+  <a href="https://github.com/charliefour">
+    <img src="https://github-readme-stats.shion.dev/api?username=charliefour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="notdumbj stats" width="48%" />
+  </a>
+  <a href="https://github.com/charliefour">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=charliefour&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="notdumbj top langs" width="48%" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=charliefour&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7B61FF&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=7B61FF" />
 
