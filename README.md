@@ -159,84 +159,76 @@ SYSTEM_CORE:
 # 🚀 ACTIVE MISSIONS
 
 <div align="center">
-
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-<h2>🎮 Game Dev</h2>
+# 🎮 Game Dev
 
-<pre>
+```diff
 + STATUS: ACTIVE
 + TYPE: Story Mode
 + STACK: Unreal Engine 5
-
-FEATURES:
-  • Adventure
-  • Story Rich
-  • Split Screen
-</pre>
++ FEATURES:
+    + Advanture
+    + Story Rich
+    + Split Screen
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🤖 Artificial Crypto</h2>
+# 🤖 Artificial Crypto
 
-<pre>
+```diff
 + STATUS: IN DEVELOPMENT
 + TYPE: Simulated Crypto Exchange
-
-FEATURES:
-  • Wallet Authentication
-  • AI Trading Agents
-  • Referral Systems
-  • Real-time Market Logic
-</pre>
++ FEATURES:
+    + Wallet Authentication
+    + AI Trading Agents
+    + Referral Systems
+    + Real-time Market Logic
+```
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-<h2>🎮 E-Sports Pakistan</h2>
+# 🎮 E-Sports Pakistan
 
-<pre>
+```diff
 + STATUS: EXPANDING
 + ROLE: OPERATIONS & INFRASTRUCTURE
-
-FOCUS:
-  • Tournament Systems
-  • Team Management
-  • National Competitive Scene
-</pre>
++ FOCUS:
+    + Tournament Systems
+    + Team Management
+    + National Competitive Scene
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🏛 E-Sports Club Bahria</h2>
+# 🏛 E-Sports of Club Bahria
 
-<pre>
+```diff
 + ROLE: PRESIDENT
 + OPERATIONS: ACTIVE
-
-RESPONSIBILITIES:
-  • Event Management
-  • Community Growth
-  • Cross-University Leagues
-</pre>
++ RESPONSIBILITIES:
+    + Event Management
+    + Community Growth
+    + Cross-University Leagues
+```
 
 </td>
-
 </tr>
 </table>
 
 </div>
+
 
 ---
 
