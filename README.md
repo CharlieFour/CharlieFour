@@ -167,14 +167,15 @@ SYSTEM_CORE:
 
 <h2>🎮 Game Dev</h2>
 
-<pre lang="diff">
+<pre>
 + STATUS: ACTIVE
 + TYPE: Story Mode
 + STACK: Unreal Engine 5
-+ FEATURES:
-    + Adventure
-    + Story Rich
-    + Split Screen
+
+FEATURES:
+  • Adventure
+  • Story Rich
+  • Split Screen
 </pre>
 
 </td>
@@ -183,14 +184,15 @@ SYSTEM_CORE:
 
 <h2>🤖 Artificial Crypto</h2>
 
-<pre lang="diff">
+<pre>
 + STATUS: IN DEVELOPMENT
 + TYPE: Simulated Crypto Exchange
-+ FEATURES:
-    + Wallet Authentication
-    + AI Trading Agents
-    + Referral Systems
-    + Real-time Market Logic
+
+FEATURES:
+  • Wallet Authentication
+  • AI Trading Agents
+  • Referral Systems
+  • Real-time Market Logic
 </pre>
 
 </td>
@@ -203,13 +205,14 @@ SYSTEM_CORE:
 
 <h2>🎮 E-Sports Pakistan</h2>
 
-<pre lang="diff">
+<pre>
 + STATUS: EXPANDING
 + ROLE: OPERATIONS & INFRASTRUCTURE
-+ FOCUS:
-    + Tournament Systems
-    + Team Management
-    + National Competitive Scene
+
+FOCUS:
+  • Tournament Systems
+  • Team Management
+  • National Competitive Scene
 </pre>
 
 </td>
@@ -218,13 +221,14 @@ SYSTEM_CORE:
 
 <h2>🏛 E-Sports Club Bahria</h2>
 
-<pre lang="diff">
+<pre>
 + ROLE: PRESIDENT
 + OPERATIONS: ACTIVE
-+ RESPONSIBILITIES:
-    + Event Management
-    + Community Growth
-    + Cross-University Leagues
+
+RESPONSIBILITIES:
+  • Event Management
+  • Community Growth
+  • Cross-University Leagues
 </pre>
 
 </td>
@@ -233,6 +237,7 @@ SYSTEM_CORE:
 </table>
 
 </div>
+
 ---
 
 
