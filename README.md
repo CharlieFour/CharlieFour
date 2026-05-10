@@ -19,6 +19,7 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00ffcc,50:7B61FF,100:0d0d1a&section=header"/>
 </p>
+
 # 🪪 DIGITAL IDENTITY
 
 <div align="center">
@@ -227,7 +228,6 @@ SYSTEM_CORE:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🧠 AI SYSTEM ARCHITECTURE
 
@@ -255,11 +255,6 @@ D --> K[Autonomous Decision Systems]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=charliefour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&icon_color=7B61FF&text_color=ffffff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charliefour&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=ffffff" />
-
-<br/>
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=charliefour&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7B61FF&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=7B61FF" />
 
