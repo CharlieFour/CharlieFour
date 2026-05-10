@@ -159,29 +159,31 @@ SYSTEM_CORE:
 # 🚀 ACTIVE MISSIONS
 
 <div align="center">
+
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-# 🎮 Game Dev
+<h2>🎮 Game Dev</h2>
 
-```diff
+<pre lang="diff">
 + STATUS: ACTIVE
 + TYPE: Story Mode
 + STACK: Unreal Engine 5
 + FEATURES:
-    + Advanture
+    + Adventure
     + Story Rich
     + Split Screen
-```
+</pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-# 🤖 Artificial Crypto
+<h2>🤖 Artificial Crypto</h2>
 
-```diff
+<pre lang="diff">
 + STATUS: IN DEVELOPMENT
 + TYPE: Simulated Crypto Exchange
 + FEATURES:
@@ -189,46 +191,48 @@ SYSTEM_CORE:
     + AI Trading Agents
     + Referral Systems
     + Real-time Market Logic
-```
+</pre>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-# 🎮 E-Sports Pakistan
+<h2>🎮 E-Sports Pakistan</h2>
 
-```diff
+<pre lang="diff">
 + STATUS: EXPANDING
 + ROLE: OPERATIONS & INFRASTRUCTURE
 + FOCUS:
     + Tournament Systems
     + Team Management
     + National Competitive Scene
-```
+</pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-# 🏛 E-Sports of Club Bahria
+<h2>🏛 E-Sports Club Bahria</h2>
 
-```diff
+<pre lang="diff">
 + ROLE: PRESIDENT
 + OPERATIONS: ACTIVE
 + RESPONSIBILITIES:
     + Event Management
     + Community Growth
     + Cross-University Leagues
-```
+</pre>
 
 </td>
+
 </tr>
 </table>
 
 </div>
-
 ---
 
 
