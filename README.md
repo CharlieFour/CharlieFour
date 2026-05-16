@@ -75,59 +75,6 @@ SYSTEM_CORE:
 ---
 
 
-# ⚡ SYSTEM STATUS
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%">
-
-### 🤖 AI CORE
-
-```diff
-+ STATUS: ONLINE
-+ TRAINING MODE: ACTIVE
-+ AGENTS: DEVELOPING
-+ PIPELINES: RUNNING
-```
-
-</td>
-
-<td width="33%">
-
-### 🛡 CYBER SECURITY
-
-```diff
-+ WATCHDOGS AV
-+ REAL-TIME MONITORING
-+ HASH ANALYSIS
-+ NETWORK INSPECTION
-```
-
-</td>
-
-<td width="33%">
-
-### 🎮 GAME SYSTEMS
-
-```diff
-+ UNREAL ENGINE 5
-+ WORLD BUILDING
-+ MULTIPLAYER SYSTEMS
-+ CINEMATIC DESIGN
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
-
 # 🧬 TECH ECOSYSTEM
 
 <div align="center">
@@ -232,29 +179,6 @@ SYSTEM_CORE:
 
 ---
 
-
-# 🧠 AI SYSTEM ARCHITECTURE
-
-```mermaid
-graph TD
-
-A[Frontend Systems] --> B[Backend APIs]
-B --> C[AI Engine]
-C --> D[Machine Learning Models]
-C --> E[Database Layer]
-C --> F[Real-time Analytics]
-
-F --> G[Crypto Market Streams]
-F --> H[Cybersecurity Monitoring]
-
-H --> I[VirusTotal APIs]
-H --> J[Threat Detection]
-
-D --> K[Autonomous Decision Systems]
-```
-
----
-
 # 📊 GITHUB TELEMETRY
 
 <div align="center">
@@ -271,16 +195,6 @@ D --> K[Autonomous Decision Systems]
 <div align="center">
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=charliefour&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7B61FF&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=7B61FF" />
-
-</div>
-
----
-
-# 📈 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charliefour&bg_color=0d0d1a&color=00ffcc&line=7B61FF&point=00ffcc&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -315,26 +229,3 @@ D --> K[Autonomous Decision Systems]
 </div>
 
 ---
-
-# 💻 TERMINAL
-
-<div align="center">
-
-```bash
-> initializing secure connection...
-> decrypting communication channel...
-> AI systems synchronized
-> cybersecurity modules active
-> esports network connected
-> STATUS: OPEN TO COLLABORATE ✅
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:0d0d1a,50:1a0a2e,75:130f40,100:050510&height=180&section=footer&animation=fadeIn" width="100%" />
-
-</div>
